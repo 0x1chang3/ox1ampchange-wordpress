@@ -3,7 +3,7 @@
  *
  * Plugin Name: Change AMPHTML
  * Description: AMP sayfaları için amphtml etiketi domainini değiştirir. Ücretsiz bir yazılımdır. Güncel sürümünü github sayfamdan edinebilirsiniz.
- * Version:     1.8
+ * Version:     1.0
  * Author:      0x1change
  * Plugin URI:  https://github.com/0x1chang3/ox1ampchange-wordpress
  * Author URI:  https://sansursuzinternet.org
